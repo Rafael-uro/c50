@@ -1,0 +1,21 @@
+.grade { 
+    display:flex;
+    justify-content: flex-start;
+    background-color: chartreuse;
+
+}
+.grade1 { 
+    display:flex;
+    justify-content: flex-start;
+    background-color: darkorchid;
+}
+.grade2 { 
+    display:flex;
+    justify-content: flex-start;
+    background-color: darkorchid;
+}
+.grade3 { 
+    display:flex;
+    justify-content: flex-start;
+   background-color: chartreuse;
+}
